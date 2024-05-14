@@ -1,0 +1,27 @@
+Task 3
+Create a dictionary app. Let it be English-Spanish or
+French-German dictionary, or any other languages. The app
+should do the following:
+■ provide initial data input for the dictionary,
+■ display the word and its translations,
+■ add, replace, delete word translations,
+■ add, replace, delete a word,
+■ display top 10 most popular words (determine the popularity based on the request counter),
+■ display top 10 least popular words (determine the popularity based on the request counter).
+You can choose the necessary data structures on your own.
+
+
+1. create a Class Dictionary
+2. write a functions for this Class:
+WORK WITH DICTIONARY
+- def input +
+- def display(write down) word-translation(key-value) #TODO, I didn't do that
+- def add_translation
+- def replace_translation
+- def del_translation
+- def add_word
+- def replace_word
+- def del_word
+- d
+ - 
+
